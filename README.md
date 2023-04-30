@@ -4,7 +4,7 @@ Roles:
 * manage all data
 2. The manager can 
 * log in to the admin panel with restricted access
-* manage the data who has access (permission)
+* manage the data
 3. The buyer can (REST API)
 * register and log in 
 * view the list of categories
